@@ -1,3 +1,5 @@
+---
+---
 # Politique de confidentialité
 
 **Application : Sauvegarde Robot Trading**
